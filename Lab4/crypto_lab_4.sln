@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleForTests", "ConsoleForTests\ConsoleForTests.csproj", "{9113AE97-DA7E-4385-BFBC-29F2D713E404}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "crypto_lab_4", "Lab4\crypto_lab_4.csproj", "{B4C4BBBC-1D1E-42A6-9FC4-5196D89C9252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9113AE97-DA7E-4385-BFBC-29F2D713E404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9113AE97-DA7E-4385-BFBC-29F2D713E404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9113AE97-DA7E-4385-BFBC-29F2D713E404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9113AE97-DA7E-4385-BFBC-29F2D713E404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C4BBBC-1D1E-42A6-9FC4-5196D89C9252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C4BBBC-1D1E-42A6-9FC4-5196D89C9252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C4BBBC-1D1E-42A6-9FC4-5196D89C9252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C4BBBC-1D1E-42A6-9FC4-5196D89C9252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C08C7E-4FBA-4C9C-949E-CE04F3DDFE4A}
+	EndGlobalSection
+EndGlobal
